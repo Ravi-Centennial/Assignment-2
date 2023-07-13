@@ -1,2 +1,5 @@
-# Assignment-2
-A short description of Assignment is not completed fully but can be considered as basic.
+# 🌊 Portfolio
+#### ⚡ This is my [portfolio website](https://vikiwarrior.github.io/portfolio/).
+#### 📕 Building while learning Angular.
+#### 🔨 Still in progress.
+ 
